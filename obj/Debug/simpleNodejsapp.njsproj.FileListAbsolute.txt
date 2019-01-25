@@ -1,0 +1,2 @@
+C:\Users\David Coombes\source\repos\simpleNodejsapp\simpleNodejsapp\obj\Debug\simpleNodejsapp.njsproj.CoreCompileInputs.cache
+C:\Users\David Coombes\source\repos\simpleNodejsapp\simpleNodejsapp\bin\Microsoft.NodejsTools.WebRole.dll
