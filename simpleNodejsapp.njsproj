@@ -5,7 +5,7 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
     <Name>ExpressApp1</Name>
     <RootNamespace>ExpressApp1</RootNamespace>
-    <LastActiveSolutionConfig>Release|Any CPU</LastActiveSolutionConfig>
+    <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
     <SaveNodeJsSettingsInProjectFile>True</SaveNodeJsSettingsInProjectFile>
     <NameOfLastUsedPublishProfile>simpleNodejsapp20190125110144 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>

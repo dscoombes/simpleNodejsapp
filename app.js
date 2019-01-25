@@ -58,6 +58,9 @@ app.use(function (err, req, res, next) {
     });
 });
 
+console.log("Log from app.js");
+console.error("Error from app.js");
+
 app.set('port', process.env.PORT || 1337);
 
 var server = app.listen(app.get('port'), function () {
