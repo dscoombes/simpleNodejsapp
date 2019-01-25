@@ -17,3 +17,6 @@ router.get('/contact', function (req, res) {
 });
 
 module.exports = router;
+
+console.log("Log from index.js");
+console.error("Error from index.js");
